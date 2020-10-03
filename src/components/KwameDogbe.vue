@@ -26,7 +26,8 @@
 
       <p>My hobbys include sport in general, primarily basketball and football, but 
         I'm always keen for a game of badminton or table tennis, or for long walks
-        and cycles to glorious destinations.
+        and cycles to glorious destinations. I also enjoy photography and have a dedicated
+        Instagram account for my shots.
       </p>
 
       <p>I have had a deverse range of jobs that include the following:</p>
